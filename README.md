@@ -1,2 +1,2 @@
-# coffe_machine
+# coffee_machine
 Intermediate-Project-1
