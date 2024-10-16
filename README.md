@@ -18,7 +18,7 @@ Welcome to the **Coffee Machine** project! This Python script simulates a intera
 Here’s an example interaction:
 
 What'll it be? (espresso/latte/cappuccino): latte
-Alright, let's talk money. Insert your coins, please!
+Insert your coins, please!
 Quarters, how many?: 10
 Dimes, how many?: 5
 Nickels, how many?: 0
